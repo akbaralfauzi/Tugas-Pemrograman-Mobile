@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travel App</string>
+
+    <string name="add_travel_place">Add Travel Place</string>
+    <string name="place_name">Place Name</string>
+    <string name="location">Location</string>
+    <string name="review">Review</string>
+    <string name="price">Price</string>
+    <string name="no_travel_place">No Places</string>
+    <string name="text_empty_content">No Places Found</string>
+    <string name="add_place">Add Place</string>
+    <string name="update_place">Update Travel Place</string>
+    <string name="delete_place">Delete Travel Place</string>
+    <string name="all_travels_title">Travels List</string>
+
+</resources>
